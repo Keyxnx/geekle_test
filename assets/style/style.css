@@ -98,6 +98,7 @@ header {
   padding-top: 15px;
   margin-bottom: -15px;
   overflow: hidden;
+  -webkit-user-drag: none;
 }
 
 .headline-summit__action button {
